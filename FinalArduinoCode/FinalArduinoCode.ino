@@ -27,15 +27,15 @@
 
 
 
-float fivekurus_analogValue; //Ölçeceğimiz analog değer
-float twentyfivekurus_analogValue; //Ölçeceğimiz analog değer
-float fiftykurus_analogValue; //Ölçeceğimiz analog değer
-float onetl_analogValue; //Ölçeceğimiz analog değer
+float fivekurus_analogValue; //measure analog value
+float twentyfivekurus_analogValue; //measure analog value
+float fiftykurus_analogValue; //measure analog value
+float onetl_analogValue; //measure analog value
 
-int fivekurus_detectorPin=13;  //Analog değer girişi
-int twentyfivekurus_detectorPin=12;  //Analog değer girişi
-int fiftykurus_detectorPin=11;  //Analog değer girişi
-int onetl_detectorPin3=10;  //Analog değer girişi
+int fivekurus_detectorPin=13;  //Analog value input 
+int twentyfivekurus_detectorPin=12;  //Analog value input
+int fiftykurus_detectorPin=11;  //Analog value input
+int onetl_detectorPin3=10;  //Analog value input
 
 
 int count5=0;
