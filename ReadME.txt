@@ -1,3 +1,6 @@
+
+An Electromechanical iOS App. Controlled Metal Coin Detection, Separation, and Withdrawal Project built on ATMega 2560 μController
+
 - Arduino Mega , UNO and ESP8266 are necessary
 
 - Change FinalCode Wifi SSID and Password
